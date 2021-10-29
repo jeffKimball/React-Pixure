@@ -5,6 +5,6 @@ import App from './components/App'
 
 
 ReactDOM.render(
-<App msg="hello whirled"/>, 
+<App />, 
 document.getElementById('root')
 )
